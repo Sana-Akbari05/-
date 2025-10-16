@@ -6,7 +6,7 @@
 مشاهده کد:2/blink5/blink5.ino
 با استفاده از شماتیک مشخص شده که شامل چراغLED ، مقاومت و سیم میشود از ورودی جریان را گرفته و به زمین(GND) وصل کرد.
 مشاهده شماتیک:
-![شماتیک](https://github.com/user-attachments/assets/f8184af6-2233-4d6d-b735-87624133c62b)
+![شماتیک](https://github.com/user-attachments/assets/17233966-6662-4c62-b15d-fb04220c7b6c)
 
 مشاهده خروجی:
 
