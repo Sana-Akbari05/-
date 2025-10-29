@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/b75c8c5b-78de-4c48-a253-a79c115ae221
 
 مشاهده شماتیک:
 ![شماتیک](https://github.com/user-attachments/assets/65e5c621-e20d-454c-b234-9bc87463d633)
-
+4/LCD Custom Character Generator/LCDCustomCharacterGenerator/LCDCustomCharacterGenerator.ino
 مشاهده کد:
 **LCD animation**
 برای دیدن انیمیشن بر روی ال سی دی باید بتدا کاراکتری را در خانه ای مشخص نمایش داد سپس آن را در خانه دیگری دید و آن را از خانه قبلی پاک کرد.
@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/af45a444-8ff2-472a-adae-197defd152ca
 ![شماتیک](https://github.com/user-attachments/assets/94500b67-ba43-4404-a412-68a70c253938)
 
 مشاهده کد:
-
+4/LCDanimation/LCDanimation.ino
 
 **Ultrasonic**
 این ماژول کارایی های زیادی دارد که در این مدار ما از یکی از کاربرد های آن استفاده میکنیم:
@@ -70,6 +70,8 @@ https://github.com/user-attachments/assets/71227bc8-0393-4d08-965e-ca4a68ef5e85
 ![شماتیک](https://github.com/user-attachments/assets/5f47c7ff-471b-48fe-a127-0d647a26dde8)
 
 مشاهده کد: 
+4/ultrasonic/ultrasonic.ino
+
 
 **Project**
 برای این مدار همانند مدار قبلی از ماژول التراسونیک استفاده شده و مانند مدار قبلی از مقدار فاصله را به صورت سانتی متر در سریال مانیتور نمایش میدهد با این تفاوت که در این مدار از یک لامپ LED استفاده شده است که از فاصله 30 سانتی متر تا 4 سانتی متر روشن میشود و با زیاد شدن فاصله شدت روشنایی آن کم میشود و با نزدیک شدن جسم به ماژول شدت روشنایی لامپ زیاد میشود.
@@ -84,3 +86,4 @@ https://github.com/user-attachments/assets/4cd4083d-2034-4f7f-acf3-dc4705488ec0
 ![شماتیک](https://github.com/user-attachments/assets/7368a10b-cbe3-48bb-b2e5-3264181a62dd)
 
 مشاهده کد:
+4/project/project.ino
