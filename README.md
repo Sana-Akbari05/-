@@ -35,7 +35,11 @@ https://github.com/user-attachments/assets/7aafc8d2-855f-4842-a5e9-9dee81b0d358
 مشاهده کد:
 
 مشاهده خروجی:
-https://github.com/user-attachments/assets/5cdc9a76-a1a7-4669-bd5b-b5cf1e9b70a3
+
+
+https://github.com/user-attachments/assets/f35e0361-d255-450a-a330-e52d4a83f0b6
+
+
 
 **Photocell**
 فتوسل ماژولی است که برای تشخیص میزان روشنایی استفاده میشود.
