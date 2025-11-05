@@ -14,7 +14,7 @@
 ![7_segment](https://github.com/user-attachments/assets/c157291c-3fa4-4d9c-8637-fc4169c49cba)
 
 مشاهده کد:
-
+5/7segment/7segment.ino
 مشاهده خروجی:
 
 
@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/7aafc8d2-855f-4842-a5e9-9dee81b0d358
 مشاهده شماتیک:
 ![7_segment](https://github.com/user-attachments/assets/d6f6a9b1-ea5b-4823-bcd7-83c357c033fc)
 مشاهده کد:
-
+5/7_segment_alphabet/7_segment_alphabet.ino
 مشاهده خروجی:
 
 
@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/f35e0361-d255-450a-a330-e52d4a83f0b6
 مشاهده شماتیک:
 ![photocell](https://github.com/user-attachments/assets/2204e123-d9cc-456d-b0c1-60e3d1e19a20)
 مشاهده کد:
-
+5/photocell/photocell.ino
 مشاهده خروجی:
 
 
@@ -69,7 +69,7 @@ map(sensor, 0, 1023, 255, 0);
 ![photocell](https://github.com/user-attachments/assets/346b7337-f7be-4658-be0a-8115068841a5)
 
 مشاهده کد:
-
+5/photocell_fade/photocell_fade.ino
 مشاهده خروجی:
 
 
@@ -85,7 +85,7 @@ https://github.com/user-attachments/assets/5178351e-8a55-4e91-bcef-93416c773dcd
 ![photocell](https://github.com/user-attachments/assets/e0c5aade-a24c-4e3f-8cb0-d301e9092895)
 
 مشاهده کد:
-
+5/photocaell_limited_fade/photocaell_limited_fade.ino
 مشاهده خروجی:
 
 
@@ -108,7 +108,7 @@ https://github.com/user-attachments/assets/03d74942-e719-47a7-be90-a8eb62b05322
 ![speaker](https://github.com/user-attachments/assets/490b2408-a4f6-42b6-bab6-b7e4fbf5af19)
 
 مشاهده کد:
-
+5/speaker/speaker.ino
 مشاهده خروجی:
 
 
